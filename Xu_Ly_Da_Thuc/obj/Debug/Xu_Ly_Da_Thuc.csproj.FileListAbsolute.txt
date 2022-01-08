@@ -1,0 +1,12 @@
+D:\Nien_luan_co_so_nganh\Xu_Ly_Da_Thuc\Xu_Ly_Da_Thuc\bin\Debug\Xu_Ly_Da_Thuc.exe.config
+D:\Nien_luan_co_so_nganh\Xu_Ly_Da_Thuc\Xu_Ly_Da_Thuc\bin\Debug\Xu_Ly_Da_Thuc.exe
+D:\Nien_luan_co_so_nganh\Xu_Ly_Da_Thuc\Xu_Ly_Da_Thuc\bin\Debug\Xu_Ly_Da_Thuc.pdb
+D:\Nien_luan_co_so_nganh\Xu_Ly_Da_Thuc\Xu_Ly_Da_Thuc\obj\Debug\Xu_Ly_Da_Thuc.csprojAssemblyReference.cache
+D:\Nien_luan_co_so_nganh\Xu_Ly_Da_Thuc\Xu_Ly_Da_Thuc\obj\Debug\Xu_Ly_Da_Thuc.Properties.Resources.resources
+D:\Nien_luan_co_so_nganh\Xu_Ly_Da_Thuc\Xu_Ly_Da_Thuc\obj\Debug\Xu_Ly_Da_Thuc.csproj.GenerateResource.cache
+D:\Nien_luan_co_so_nganh\Xu_Ly_Da_Thuc\Xu_Ly_Da_Thuc\obj\Debug\Xu_Ly_Da_Thuc.csproj.CoreCompileInputs.cache
+D:\Nien_luan_co_so_nganh\Xu_Ly_Da_Thuc\Xu_Ly_Da_Thuc\obj\Debug\Xu_Ly_Da_Thuc.exe
+D:\Nien_luan_co_so_nganh\Xu_Ly_Da_Thuc\Xu_Ly_Da_Thuc\obj\Debug\Xu_Ly_Da_Thuc.pdb
+D:\Nien_luan_co_so_nganh\Xu_Ly_Da_Thuc\Xu_Ly_Da_Thuc\obj\Debug\Xu_Ly_Da_Thuc.FormMain.resources
+D:\Nien_luan_co_so_nganh\Xu_Ly_Da_Thuc\Xu_Ly_Da_Thuc\obj\Debug\Xu_Ly_Da_Thuc.frm1DaThuc.resources
+D:\Nien_luan_co_so_nganh\Xu_Ly_Da_Thuc\Xu_Ly_Da_Thuc\obj\Debug\Xu_Ly_Da_Thuc.frm2DaThuc.resources
